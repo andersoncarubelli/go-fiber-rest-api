@@ -1,0 +1,6 @@
+mode: set
+github.com/andersoncarubelli/go-fiber-rest-api/pkg/routes/not_found_route.go:5.34,7.28 1 0
+github.com/andersoncarubelli/go-fiber-rest-api/pkg/routes/not_found_route.go:7.28,12.4 1 0
+github.com/andersoncarubelli/go-fiber-rest-api/pkg/routes/private_routes.go:9.34,15.2 4 1
+github.com/andersoncarubelli/go-fiber-rest-api/pkg/routes/public_routes.go:8.33,14.2 4 0
+github.com/andersoncarubelli/go-fiber-rest-api/pkg/routes/swagger_route.go:8.33,11.2 2 0
